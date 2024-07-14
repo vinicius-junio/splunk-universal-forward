@@ -2,12 +2,13 @@
 
 ## Índice
 
-- [Introdução](#introducao)
-- [Configuracao Splunk Enterprise / Cloud](#splunk-configuration)
+- [Introdução](#introdução)
+- [Configuração Splunk Enterprise / Cloud](#configuração-splunk-enterprise--cloud)
 - [Download Universal Forwarder](#download-universal-forwarder)
-- [Instalação Universal Forwarder](#instalacao-universal-forwarder)
-- [Configuração Integridade Universal Forwarder](#integrigade-universal-forwarder)
-- [Configuração Universal Forwarder para o Indexador](#universal-forwarder-para-indexador)
+- [Instalação Universal Forwarder](#instalação-universal-forwarder)
+- [Configuração Integridade Universal Forwarder](#configuração-integridade-universal-forwarder)
+- [Configuração Universal Forwarder para o Indexador](#configuração-universal-forwarder-para-o-indexador)
+
   
 ## Introdução
 <div align = "justify">
