@@ -3,7 +3,7 @@
 ## Índice
 
 - [Introdução](#introdução)
-- [Configuração Splunk Enterprise / Cloud](#configuração-splunk-enterprise--cloud)
+- [Configuração Splunk](#configuração-splunk)
 - [Download Universal Forwarder](#download-universal-forwarder)
 - [Instalação Universal Forwarder](#instalação-universal-forwarder)
 - [Configuração Integridade Universal Forwarder](#configuração-integridade-universal-forwarder)
@@ -15,7 +15,7 @@
   O Universal Forwarder é um componente leve da plataforma Splunk que coleta dados de várias fontes e os envia para um servidor Splunk (como um Splunk Indexer ou Splunk Cloud) para processamento e análise. Ele é usado para coletar logs, métricas e outros dados de forma eficiente e segura, permitindo a centralização e correlação de dados para monitoramento, análise e visualização. É especialmente útil em ambientes distribuídos onde é necessário coletar dados de múltiplos servidores e dispositivos.
 </div>
 
-## Configuracao Splunk Enterprise / Cloud
+## Configuracao Splunk
 
   O primeiro passo e configurar o indexador do Splunk.<br>
   1. Acessar o Splunk Enterprise / Cloud como Administrador.
