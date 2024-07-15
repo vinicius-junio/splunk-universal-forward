@@ -17,11 +17,15 @@
 
 ## Configuração Splunk
 
-  O primeiro passo e configurar o indexador do Splunk.<br>
+  O primeiro passo é configurar a porta de escuta do Splunk.<br>
   1. Acessar o Splunk Enterprise / Cloud como Administrador.
   2. Clicar em Settings -> Forwarding and receiving.
   3. Em "Receive Data", clicar em "Add new".
-  4. Ao abrir o "Configure receiving", adicionar a porta TCP de escuta que o indexador deve escutar.
+  4. Ao abrir o "Configure receiving", adicionar a porta TCP de escuta que o indexador deve escutar.<br><br>
+
+  Após configuração da porta tcp de escuta, podemos configurar um index, pois se o envio dos logs forem feito para porta sem um index, ele vai ir direto para o index "main".<br>
+  1. Na console clique em "Settings" -> "Indexes" -> "New Index".
+  
 
 ## Download Universal Forwarder
 
