@@ -74,12 +74,15 @@ IMPORTANTE:  Defina o username e password para acesso ao Agent.<br>
 ```
 
   Agora precisamos informar ao Universal Forwarder quais dados enviar ao indexador.<br><br>
-  O comando "add monitor" é usado para informar ao Universal Forwarder quais dados gostaria de enviar.<br>
-  Neste exemplo todos logs da pasta /log-forwarder sera encaminhado para o Splunk
+  O comando "add monitor" é usado para informar ao Universal Forwarder quais dados gostaria de enviar.<br><br>
+  Neste exemplo todos logs da pasta /log-forwarder sera encaminhado para o Splunk.
 ```
   ./splunk add monitor  /opt/log/log-forwarder -index <index_criado_splunk>
 
   Obs: User e Password definido durante a instalação.
 ```
+<br>
+Após isso os logs já serão encaminhados para o index configurado.
+
 <br>
 <br>
