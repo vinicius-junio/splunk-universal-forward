@@ -14,6 +14,11 @@
 <div align = "justify">
   O Universal Forwarder é um componente leve da plataforma Splunk que coleta dados de várias fontes e os envia para um servidor Splunk (como um Splunk Indexer ou Splunk Cloud) para processamento e análise. Ele é usado para coletar logs, métricas e outros dados de forma eficiente e segura, permitindo a centralização e correlação de dados para monitoramento, análise e visualização. É especialmente útil em ambientes distribuídos onde é necessário coletar dados de múltiplos servidores e dispositivos.
 </div>
+<br>
+<p align="center">
+  <img src="splunk_images/universal_forwarder.png" alt="Splunk Index">
+</p>
+
 
 ## Configuração Splunk
 
