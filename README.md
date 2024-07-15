@@ -16,7 +16,7 @@
 </div>
 <br>
 <p align="center">
-  <img src="splunk_images/universal_forwarder.png" alt="Splunk Index">
+  <img src="universal_forwarder/universal_forwarder.png" alt="Splunk Index">
 </p>
 
 
