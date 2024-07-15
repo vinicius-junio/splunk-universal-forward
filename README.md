@@ -56,7 +56,7 @@ IMPORTANTE:  Defina o username e password para acesso ao Agent.<br>
   Para evitar perda de dados, o agent do Universal Forwarder deve ser iniciado sempre que o servidor for reinicializado, então podemos usar o comando:
 ```
   sudo su
-  ./splunk enable boot-start -user <user_server>
+  ./splunk enable boot-start
   exit
 ```
 
